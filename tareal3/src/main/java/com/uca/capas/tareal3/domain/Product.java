@@ -9,7 +9,6 @@ public class Product {
 		
 	}
 	
-	
 	public Product(Integer id, String nombre, Integer cantidad) {
 		super();
 		this.id = id;
@@ -35,7 +34,5 @@ public class Product {
 	public void setCantidad(Integer cantidad) {
 		this.cantidad = cantidad;
 	}
-	
-
 	
 }
